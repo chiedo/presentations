@@ -1,0 +1,23 @@
+{
+  "name": "Generate Impact",
+  "description": "Generate Impact",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "marp --html docs/*.md && marp --pdf docs/*.md"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "~1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiedo/generate-impact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiedo/generate-impact/issues"
+  },
+  "homepage": "https://github.com/chiedo/generate-impact"
+}

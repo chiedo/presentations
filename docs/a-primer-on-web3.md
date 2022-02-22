@@ -138,3 +138,20 @@ _paginate: false
 - b
 
 ---
+
+##  How I want to see Web3 impact the world
+
+- My vision statement on next slide. Competition etc.
+
+---
+
+##  How you can join the movement
+
+- Read some books
+- Learn solidity 
+- Buy some crypto to get a feel for it
+- Start contributing to Web3 ecosystems
+
+---
+
+# **Time for Questions 👋**

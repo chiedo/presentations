@@ -99,18 +99,42 @@ _paginate: false
 
 --- 
 
-## **Assuming you care, let's Zoom in 🌬️**
+## **Assuming you care, let's Zoom in🌬️**
 
 ---
 
 ##  Bitcoin
 
---- 
+ - Cover how it works and tokenomics
+
+---
 
 ##  Ethereum
+
+ - Cover how it works and tokenomics
 
 ---
 
 ##  Internet Computer
+
+ - Cover how it works and tokenomics
+
+---
+
+## **Let's look at the Ecosystem 🌴**
+
+---
+
+##  Top Dapp Blockchains (like ethereum)
+
+- a
+- b
+
+---
+
+##  Exciting use-cases
+
+- a
+- b
 
 ---

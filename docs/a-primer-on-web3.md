@@ -158,18 +158,85 @@ I barely touched the surface but I need to keep this high level
 
 ---
 
-##  How I want to see Web3 impact the world
+##  **Send Money to England with a bank 🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
-- My vision statement on next slide. Competition etc.
+- I want to send money to my sweet Grandmother
+- With the traditional banking system, they say no problem
+- $60 fee - 1-5 days - and not on a Sunday
 
 ---
 
-##  How you can join the movement
+##  **OR Send Money to England with Bitcoin 🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
-- Read some books
-- Learn solidity 
-- Buy some crypto to get a feel for it
-- Start contributing to Web3 ecosystems
+- I want to send money to my sweet Grandmother
+- Less than $1 fee - 30 minutes - Whenever I want
+
+---
+
+##  **Put money in a Savings account :monkey:**
+
+- The bank gives me 0.05% interest
+- The bank makes all the profit lending out my money
+
+---
+
+##  **OR Put money in a DeFI Lending App on Ethereum 🦍**
+
+- The app gives me 5% interest
+- There is no third party profiting from my money.
+- Just autonomous code on the Ethereum blockchain
+
+---
+
+##  **They own your digital stuff 😲**
+
+- You buy digital gear in your games and Sony owns it
+- You post photos on Facebook and they own it
+
+---
+
+##  **OR you own your digital stuff as NFTs 😄**
+
+- You buy digital gear in your games but that gear lives on the blockchain and is owned by you
+- You post photos to Facebook but that photo lives on the blockchain and is owned by you
+- You move elsewhere whenever you want and grant the new platforms access to your digital stuff (NFTs)
+
+---
+
+##  **Use Chrome and they profit from your data**
+
+😑
+
+---
+
+##  **Use Brave and you profit from your data 🤑**
+
+- The Brave Browser asks you if you want to be advertised to
+- They pay you a share of the cut everytime you see an ad
+
+---
+
+## **There's so much more 🛩️**
+
+But let's land the plane.
+
+---
+
+##  **The Impact I want to see**
+
+- I want to see a world where every centralized power has decentralized competition
+- I want to see the US not print so much money because Bitcoin is next door
+- I want to see Meta not be evil because Decentra-Social is next door
+- I want to see national opportunities become open to anyone on earth. That's already happening
+
+---
+
+##  **If you're curious**
+
+- Read some books (The Bitcoin Standard and The Infinite Machine)
+- Learn solidity to develop on Ethereum  (Check out Udemy)
+- Buy some crypto to get a feel for it (Coinbase)
+- Start contributing to Web3 ecosystems (GitCoin)
 
 ---
 

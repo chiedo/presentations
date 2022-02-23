@@ -13,122 +13,127 @@ _paginate: false
 
 ---
 
-## We're going to cover
+## **We're going to cover** 📝
 
-- Foundational tech in Web 1 through Web 3
-- Web3 Definitions and key players
-
----
-
-## Before we Talk about Web3 🤓
+- A super fast history of the web
+- Web3 Definitions
+- Web3 Key players
+- And Web3 Use cases
 
 ---
 
-## Web 1 and Web 2
+## **Before we Talk about Web3** 🤓
+
+---
+
+## **Web 1 and Web 2**
 
 ![w:400px](assets/thing-1-2.png)
 
 ---
 
-## **Looking at Foundational Technologies 🏗️**
+## **Let's Look at What made Each Era Possible ⛵**
 
 ---
 
-## Web 1: Static Web 🪨
+## **Web 1: Static Web** 🪨
 
 - Internet
 - HTML
 - HTTP
-- Websites
-- Decentralized Infrastructure
+- More...
+
+##### Resulting in Websites
 
 ---
 
-## Web 2: Interactive Web 🚗
+## **Web 2: Interactive Web** 🚗
 
 - Centralized Databases (SQL)
 - Javascript
 - AJAX
-- Web Apps
-- Centralized Infrastructure (Cloud providers)
+- More...
+
+##### Resulting in Web Apps
 
 ---
 
-## Web 3: Decentralized Web 🚀
+## **Web 3: Decentralized Web** 🚀
 
-- Decentralized Databases (Blockchains)
-- Decentralized Applications (Dapps)
-- Decentralized Infrastructure 
+- Made possible by one revolutionary technology
 
 ---
 
-## Blockchain 🧱 ⛓️
+## **Blockchain** 🧱 ⛓️
 
-- Introduced by Bitcoin (a single-purpose protocol that supports one app, transfering money)
-- A decentralized network of computers that records verifiable copies of the same data
-
----
-
-## Dapps 🤜
-
-- Introduced by Ethereum (a blockchain that supports an unlimited number of apps created by anyone)
-- Apps that live on and run on a blockchain
+- A decentralized network of computers that records verifiable copies of the same data. And populated by anyone on the network.
+- Put simply, blockchains are secure insofar as the network is large enough, dispersered enough, and designed well enough to incentize good actor behavior over bad.
+- It was introduced by Bitcoin (As a single-purpose protocol that supports one app, transfering money)
 
 ---
 
-## Decentralized Infastructure 🌐
+## **And Web3 was born** 👶
 
-- Introduced by Dfinity as The Internet Computer (a decentralized cloud provider)
-- Web 1 became centralized because people don't want to host their own servers
-- Web 3 is becoming centralized for the same reason. Ethereum and others live largely on AWS
-- Websites front-ends and assets lives largely on AWS.
-- Decentralized Infrastructure like the Internet Computer solves this
-
----
-
-
-## **Why does it matter? 🤔**
+- But Web3 didn't really feel like much when all you could do was one thing
+- Imagine the web today if all you could do was send emails. 
+- No that would not do. Because we want more. We want websites, we want web apps, we want all sorts of things. And we don't know what those things are yet.
+- Luckily that's where the concept of decentralized applications (dapps) comes into play.
 
 ---
 
-## Maybe it doesn't. Unless 🤷
+## **Dapps** 🤜
 
-- You want to own your data instead of Meta, Google, and Amazon
-- You don't want the government and banks controlling and manipulating your money (eg. 2008 and now)
-- You value competition over monopolies resulting from the centralized aggregation of power
+- Dapps are apps that live and run on blockchains
+- Which make it possible to not only decentralize data on blockchains but also to decentralize compute on those networks. 
+- Introduced by Ethereum (the first decentralized dapp blockchain)
+- Making it possible to have the equivalent of a decentralized app store with no gate keepers, no censorship
+
+---
+
+## **Stay with me 😅**
+
+- I know this is super abstract still
+- Let's talk about the last piece
+
+---
+
+## **The Centralization of Decentralization** 🚱
+
+- Web 1 became centralized because people didn't want to host their own servers
+- Web 3 is becoming centralized for the same reason. Ethereum and others live largely on AWS which defeats the purpose. Effectively AWS is a point of failure and censorship.
+- Additionally websites front-ends and assets lives largely on AWS.
+
+---
+
+## **Decentralized Cloud Infastructure** 🌐
+
+- Decentralized infastructure solves this
+- By enabling anyone to deploy their blockchain platforms, website frontends and static assets on the equivalent of a decentralized AWS
+- First introduced by Dfinity as The Internet Computer
+
+---
+
+## **That Was a lot. Why does it matter? 🤔**
+
+---
+
+## **Maybe it doesn't. Unless** 🤷
+
+- You want to own your data instead of Meta and Google.
+- You want to control your money instead of the government and banks (eg. 2008 and now) where the banks profit from your money while the gov devalues it via inflation
+- You value competition over monopolies that result from the centralized aggregation of power
+- You like the idea of widely available opportunities regardless of where you live in the world
+- Or if you happen to think freedom is a cool concept
 
 --- 
 
-## **Assuming you care, let's Zoom in🌬️**
+## **Assuming you care🌬️**
 
 ---
 
-##  Bitcoin
+## **Let's look at the use cases 🌴**
 
- - Cover how it works and tokenomics
-
----
-
-##  Ethereum
-
- - Cover how it works and tokenomics
-
----
-
-##  Internet Computer
-
- - Cover how it works and tokenomics
-
----
-
-## **Let's look at the Ecosystem 🌴**
-
----
-
-##  Top Dapp Blockchains (like ethereum)
-
-- a
-- b
+I barely touched the surface but I need to keep this high level
 
 ---
 

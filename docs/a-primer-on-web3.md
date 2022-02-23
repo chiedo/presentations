@@ -137,10 +137,24 @@ I barely touched the surface but I need to keep this high level
 
 ---
 
-##  Exciting use-cases
+##  **El Salvador uses the US Dollar 🏖️**
 
-- a
-- b
+- El Salvador used the US Dollar as legal tender.
+- Which is great and stable in the short-term.
+- But long-term it kind of sucks if the US prints a bunch of money to help the US population.
+- Yeah, everyone who holds the US Dollar loses purchasing power. But at least US citizens (ideally) benefit from it. El Salvador kind of just takes the L.
+- And the US Dollar loses value over time. 
+- It's a lose or lose situation. El Salvador is stuck...
+
+---
+
+##  **Or El Salvador uses Bitcoin 🏖️**
+
+- El Salvador made Bitcoin legal tender (true story).
+- Kind of sucks that Bitcoin is volitile right now in the short-term
+- But long-term its trending up. And has outperformed every major asset class in the last decade.
+- You can't print more Bitcoin once the cap is reached. Transaprent. And adoption is skyrocketing. Simle supply and demand.
+- It's a lose or win big situation and El Salvador's GDP increased by double digits since making this change 
 
 ---
 

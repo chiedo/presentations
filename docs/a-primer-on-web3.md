@@ -13,16 +13,35 @@ _paginate: false
 
 ---
 
+**There will be typos. Ran short on time**
+
+---
+
 ## **We're going to cover** 📝
 
 - A super fast history of the web
-- Web3 Definitions
-- Web3 Key players
-- And Web3 Use cases
+- Web3 definitions
+- Web3 key players
+- And Web3 use cases
+- Q&As
 
 ---
 
 ## **Before we Talk about Web3** 🤓
+
+---
+
+## **Know that Web3 is Political** 🧑‍⚖️
+
+- It's impossible to talk about Web3 without politics
+- Not right vs left
+- But political in the sense that it is all about the conversion of centralized power into decentralized power
+- It's about making centralized institutions unneeded where ever possible by replacing trusted intermediaries with technology that does not require trust to operate
+- Leaving centralized monopolies in a position where they must compete and win users. Not dominate them.
+
+---
+
+## **Still here? 😅**
 
 ---
 
@@ -46,6 +65,10 @@ _paginate: false
 ##### Resulting in Websites
 
 ---
+💡
+##### **Someone publishes content. We all read it and the web experience does not change**
+
+---
 
 ## **Web 2: Interactive Web** 🚗
 
@@ -58,26 +81,37 @@ _paginate: false
 
 ---
 
+💡
+##### **We all publish content. We all see different things and influence how the web experience changes**
+
+---
+
 ## **Web 3: Decentralized Web** 🚀
 
 - Made possible by one revolutionary technology
+- Blockchain
+
+---
+
+💡
+##### **We each own our data on the web, own, and monetize the platforms we use**
 
 ---
 
 ## **Blockchain** 🧱 ⛓️
 
-- A decentralized network of computers that records verifiable copies of the same data. And populated by anyone on the network.
+- A decentralized network of computers that records verifiable copies of the same data. And is populated by anyone on the network.
 - Put simply, blockchains are secure insofar as the network is large enough, dispersered enough, and designed well enough to incentize good actor behavior over bad.
-- It was introduced by Bitcoin (As a single-purpose protocol that supports one app, transfering money)
+- It was introduced by Bitcoin (As a single-purpose blockchain that supports one app, transfering money)
 
 ---
 
-## **And Web3 was born** 👶
+## **It Made Web3 Possible** 👶
 
 - But Web3 didn't really feel like much when all you could do was one thing
 - Imagine the web today if all you could do was send emails. 
 - No that would not do. Because we want more. We want websites, we want web apps, we want all sorts of things. And we don't know what those things are yet.
-- Luckily that's where the concept of decentralized applications (dapps) comes into play.
+- Luckily that's where the concept of decentralized applications (dapps) came into play.
 
 ---
 
@@ -85,7 +119,7 @@ _paginate: false
 
 - Dapps are apps that live and run on blockchains
 - Which make it possible to not only decentralize data on blockchains but also to decentralize compute on those networks. 
-- Introduced by Ethereum (the first decentralized dapp blockchain)
+- Introduced by Ethereum (the first dapp blockchain, or general purpose blockchain)
 - Making it possible to have the equivalent of a decentralized app store with no gate keepers, no censorship
 
 ---
@@ -99,17 +133,18 @@ _paginate: false
 
 ## **The Centralization of Decentralization** 🚱
 
-- Web 1 became centralized because people didn't want to host their own servers
+- Web 1 and Web 2 became centralized because people didn't want to host their own servers
 - Web 3 is becoming centralized for the same reason. Ethereum and others live largely on AWS which defeats the purpose. Effectively AWS is a point of failure and censorship.
-- Additionally websites front-ends and assets lives largely on AWS.
+- Additionally website front-ends and assets lives largely on AWS even if the backend is on a blockchain
 
 ---
 
 ## **Decentralized Cloud Infastructure** 🌐
 
 - Decentralized infastructure solves this
-- By enabling anyone to deploy their blockchain platforms, website frontends and static assets on the equivalent of a decentralized AWS
+- By enabling anyone to deploy their blockchains (like ethereum nodes), website frontends and static assets on the equivalent of a decentralized AWS
 - First introduced by Dfinity as The Internet Computer
+- We won't talk about that much more today but wanted you to know it existed
 
 ---
 
@@ -123,7 +158,7 @@ _paginate: false
 - You want to control your money instead of the government and banks (eg. 2008 and now) where the banks profit from your money while the gov devalues it via inflation
 - You value competition over monopolies that result from the centralized aggregation of power
 - You like the idea of widely available opportunities regardless of where you live in the world
-- Or if you happen to think freedom is a cool concept
+- Or if you just happen to think freedom is a cool concept
 
 --- 
 
@@ -139,21 +174,21 @@ I barely touched the surface but I need to keep this high level
 
 ##  **El Salvador uses the US Dollar 🏖️**
 
-- El Salvador used the US Dollar as legal tender.
+- El Salvador uses the US Dollar as legal tender.
 - Which is great and stable in the short-term.
 - But long-term it kind of sucks if the US prints a bunch of money to help the US population.
 - Yeah, everyone who holds the US Dollar loses purchasing power. But at least US citizens (ideally) benefit from it. El Salvador kind of just takes the L.
-- And the US Dollar loses value over time. 
+- Additionally the US Dollar loses value over time. 
 - It's a lose or lose situation. El Salvador is stuck...
 
 ---
 
 ##  **Or El Salvador uses Bitcoin 🏖️**
 
-- El Salvador made Bitcoin legal tender (true story).
+- They made Bitcoin legal tender (true story).
 - Kind of sucks that Bitcoin is volitile right now in the short-term
 - But long-term its trending up. And has outperformed every major asset class in the last decade.
-- You can't print more Bitcoin once the cap is reached. Transaprent. And adoption is skyrocketing. Simle supply and demand.
+- You can't print more Bitcoin once the cap is reached. Transparent. And adoption is skyrocketing. Simple supply and demand. The value of Bitcoin goes up.
 - It's a lose or win big situation and El Salvador's GDP increased by double digits since making this change 
 
 ---
@@ -162,7 +197,7 @@ I barely touched the surface but I need to keep this high level
 
 - I want to send money to my sweet Grandmother
 - With the traditional banking system, they say no problem
-- $60 fee - 1-5 days - and not on a Sunday
+- $60 fee - 1-5 days - and not on the weekend
 
 ---
 
@@ -192,6 +227,7 @@ I barely touched the surface but I need to keep this high level
 
 - You buy digital gear in your games and Sony owns it
 - You post photos on Facebook and they own it
+- You want to leave whatever service you've been on but don't because you can't take your data
 
 ---
 
@@ -212,7 +248,7 @@ I barely touched the surface but I need to keep this high level
 ##  **Use Brave and you profit from your data 🤑**
 
 - The Brave Browser asks you if you want to be advertised to
-- They pay you a share of the cut everytime you see an ad
+- Using Ethereum, they pay you a share of the cut everytime you see an ad
 
 ---
 
@@ -224,20 +260,29 @@ But let's land the plane.
 
 ##  **The Impact I want to see**
 
-- I want to see a world where every centralized power has decentralized competition
-- I want to see the US not print so much money because Bitcoin is next door
-- I want to see Meta not be evil because Decentra-Social is next door
-- I want to see national opportunities become open to anyone on earth. That's already happening
+- Is a world where every centralized power has decentralized competition
+- Is a US that does not print as much money because Bitcoin is next door
+- Is a world where Meta not be evil because Decentra-Social is next door
+- Is a world where previous location-based opportunities become open to anyone on earth. That's already happening
 
 ---
 
 ##  **If you're curious**
 
-- Read some books (The Bitcoin Standard and The Infinite Machine)
-- Learn solidity to develop on Ethereum  (Check out Udemy)
+- Read some books (The Bitcoin Standard, The Infinite Machine)
+- On Udemy, check out Master Ethereum & Solidity Programming From Scratch by Andrei Dumitrescu
 - Buy some crypto to get a feel for it (Coinbase)
 - Start contributing to Web3 ecosystems (GitCoin)
 
 ---
 
-# **Time for Questions 👋**
+# **In Closing 💤**
+
+- That was a lot
+- Technology is eating the world but if we don't change something technology will continue to centralize it. Esecially as AI grows faster and faster.
+- Web3 decentralizes it and fights back against continued aggregation of more ond more power from Governments, companies, and institutions
+- Thanks for your time
+
+---
+
+# **Any Questions or Debates?👋**

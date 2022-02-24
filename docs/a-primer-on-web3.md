@@ -22,7 +22,7 @@ _paginate: false
 - A super fast history of the web
 - Web3 definitions
 - Web3 key players
-- And Web3 use cases
+- Web3 use cases
 - Q&As
 
 ---
@@ -35,9 +35,9 @@ _paginate: false
 
 - It's impossible to talk about Web3 without politics
 - Not right vs left
-- But political in the sense that it is all about the conversion of centralized power into decentralized power
-- It's about making centralized institutions unneeded where ever possible by replacing trusted intermediaries with technology that does not require trust to operate
-- Leaving centralized monopolies in a position where they must compete and win users. Not dominate them.
+- But political in the sense that it is all about the conversion of centralized power into decentralized power. Where there is power, there are politics
+- Web3 is about making centralized institutions unneeded where  possible by replacing trusted intermediaries with technology that does not require trust to operate
+- Forcing monopolies to compete for their users 
 
 ---
 
@@ -94,19 +94,19 @@ _paginate: false
 ---
 
 💡
-##### **We each own our data on the web, own, and monetize the platforms we use**
+##### **We each own our data on the web, monetize the platforms we use, and move freely between platforms with our data and digital stuff**
 
 ---
 
 ## **Blockchain** 🧱 ⛓️
 
-- A decentralized network of computers that records verifiable copies of the same data. And is populated by anyone on the network.
+- A decentralized network of computers that records verifiable copies of the same data. And is populated by anyone on the network who pays the fee.
 - Put simply, blockchains are secure insofar as the network is large enough, dispersered enough, and designed well enough to incentize good actor behavior over bad.
 - It was introduced by Bitcoin (As a single-purpose blockchain that supports one app, transfering money)
 
 ---
 
-## **It Made Web3 Possible** 👶
+## **Blockchain Made Web 3 Possible** 
 
 - But Web3 didn't really feel like much when all you could do was one thing
 - Imagine the web today if all you could do was send emails. 
@@ -120,14 +120,14 @@ _paginate: false
 - Dapps are apps that live and run on blockchains
 - Which make it possible to not only decentralize data on blockchains but also to decentralize compute on those networks. 
 - Introduced by Ethereum (the first dapp blockchain, or general purpose blockchain)
-- Making it possible to have the equivalent of a decentralized app store with no gate keepers, no censorship
+- Making it possible to have the equivalent of a decentralized app store with no gate keepers, no censorship, no apple. It's the people's app store.
 
 ---
 
 ## **Stay with me 😅**
 
-- I know this is super abstract still
-- Let's talk about the last piece
+- I know this is super abstract
+- Let's talk about one more area
 
 ---
 
@@ -141,10 +141,10 @@ _paginate: false
 
 ## **Decentralized Cloud Infastructure** 🌐
 
-- Decentralized infastructure solves this
-- By enabling anyone to deploy their blockchains (like ethereum nodes), website frontends and static assets on the equivalent of a decentralized AWS
+- Decentralized cloud infastructure solves this
+- By enabling anyone to deploy their blockchain nodes, website frontends, and static assets on the equivalent of a decentralized AWS that's owned by the masses
 - First introduced by Dfinity as The Internet Computer
-- We won't talk about that much more today but wanted you to know it existed
+- We won't talk about that much more today but I did want you to know that it existed
 
 ---
 
@@ -152,10 +152,10 @@ _paginate: false
 
 ---
 
-## **Maybe it doesn't. Unless** 🤷
+## **It matters if** 🤷
 
 - You want to own your data instead of Meta and Google.
-- You want to control your money instead of the government and banks (eg. 2008 and now) where the banks profit from your money while the gov devalues it via inflation
+- You want to control your money instead of the government and banks (eg. 2008) where the banks use our money to centralize their profits but socialize their losses. And the US government inflates our dollar
 - You value competition over monopolies that result from the centralized aggregation of power
 - You like the idea of widely available opportunities regardless of where you live in the world
 - Or if you just happen to think freedom is a cool concept
@@ -177,7 +177,7 @@ I barely touched the surface but I need to keep this high level
 - El Salvador uses the US Dollar as legal tender.
 - Which is great and stable in the short-term.
 - But long-term it kind of sucks if the US prints a bunch of money to help the US population.
-- Yeah, everyone who holds the US Dollar loses purchasing power. But at least US citizens (ideally) benefit from it. El Salvador kind of just takes the L.
+- Everyone in the world who holds the US Dollar loses purchasing power. But at least US citizens (ideally) benefit from it. El Salvador kind of just takes the L.
 - Additionally the US Dollar loses value over time. 
 - It's a lose or lose situation. El Salvador is stuck...
 
@@ -233,6 +233,7 @@ I barely touched the surface but I need to keep this high level
 
 ##  **OR you own your digital stuff as NFTs 😄**
 
+- Put simply, NFTs are a record of who owns digital data that lives on a Blockchain
 - You buy digital gear in your games but that gear lives on the blockchain and is owned by you
 - You post photos to Facebook but that photo lives on the blockchain and is owned by you
 - You move elsewhere whenever you want and grant the new platforms access to your digital stuff (NFTs)
@@ -261,7 +262,7 @@ But let's land the plane.
 ##  **The Impact I want to see**
 
 - Is a world where every centralized power has decentralized competition
-- Is a US that does not print as much money because Bitcoin is next door
+- Is a USA that does not print as much money because Bitcoin is next door
 - Is a world where Meta not be evil because Decentra-Social is next door
 - Is a world where previous location-based opportunities become open to anyone on earth. That's already happening
 
@@ -279,10 +280,10 @@ But let's land the plane.
 # **In Closing 💤**
 
 - That was a lot
-- Technology is eating the world but if we don't change something technology will continue to centralize it. Esecially as AI grows faster and faster.
-- Web3 decentralizes it and fights back against continued aggregation of more ond more power from Governments, companies, and institutions
+- Technology is eating the world but if we don't change something technology will continue to centralize it. Esecially as AI grows faster and faster. It will happen. Who should own it. Central powers or the world collectively?
+- Web3 decentralizes power and fights back against continued aggregation of more of it from Governments, companies, and institutions
 - Thanks for your time
 
 ---
 
-# **Any Questions or Debates?👋**
+# **I'd love questions and comments👋**

@@ -158,7 +158,6 @@ _paginate: false
 - You want to control your money instead of the government and banks (eg. 2008) where the banks use our money to centralize their profits but socialize their losses. And the US government inflates our dollar
 - You value competition over monopolies that result from the centralized aggregation of power
 - You like the idea of widely available opportunities regardless of where you live in the world
-- Or if you just happen to think freedom is a cool concept
 
 --- 
 

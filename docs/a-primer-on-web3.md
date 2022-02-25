@@ -106,9 +106,9 @@ _paginate: false
 
 ---
 
-## **Blockchain Made Web 3 Possible** 
+## **One app is not Web3** 
 
-- But Web3 didn't really feel like much when all you could do was one thing
+- Web3 didn't really feel like much when all you could do was one thing
 - Imagine the web today if all you could do was send emails. 
 - No that would not do. Because we want more. We want websites, we want web apps, we want all sorts of things. And we don't know what those things are yet.
 - Luckily that's where the concept of decentralized applications (dapps) came into play.

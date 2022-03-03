@@ -1,6 +1,6 @@
 # Presentations
 
-- Artifacts TBD
+- [A Primer on Web3](https://chiedo.github.io/presentations/a-primer-on-web3.html)
 
 ### Locally
 

@@ -188,7 +188,7 @@ I barely touched the surface but I need to keep this high level
 - Kind of sucks that Bitcoin is volitile right now in the short-term
 - But long-term its trending up. And has outperformed every major asset class in the last decade.
 - You can't print more Bitcoin once the cap is reached. Transparent. And adoption is skyrocketing. Simple supply and demand. The value of Bitcoin goes up.
-- It's a lose or win big situation and El Salvador's GDP increased by double digits since making this change 
+- It's a lose or win big situation.
 
 ---
 
